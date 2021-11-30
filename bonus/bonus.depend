@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637680324 source:d:\iti\labs\c projects\lab7\bin\bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

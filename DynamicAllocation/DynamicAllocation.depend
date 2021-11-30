@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637678787 source:d:\iti\labs\c projects\lab7\bin\dynamicallocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
